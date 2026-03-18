@@ -11,7 +11,7 @@ Soy una persona en formación dentro del mundo del desarrollo web.
 Actualmente estudio en **Generation**, donde estoy aprendiendo las bases para convertirme en desarrollador.
 
 ## 🎓 Formación
-**Tecnologias en Telecomunicaciones - USACH**
+**Tecnologias en Telecomunicaciones - USACH**  
 **Bootcamp de Generation**
 
 ## 📖 Tecnologías que estoy aprendiendo
@@ -25,12 +25,12 @@ Actualmente estudio en **Generation**, donde estoy aprendiendo las bases para co
 Seguir creciendo en tecnología, crear proyectos útiles y construir una carrera en desarrollo web.
 
 ## 🔥 Motivación
-Cada error me enseña.
-Cada práctica me mejora.
+Aprender de cada error.
+La práctica hace al maestro.
 Cada proyecto me acerca a mi meta.
 
 ## ✨ Frase personal
-**“El código no solo se escribe, también se construye con paciencia, práctica y constancia.”**
+**“Construyendo ideas, linea por linea.”**
 
 
 
