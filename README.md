@@ -25,9 +25,9 @@ Actualmente estudio en **Generation**, donde estoy aprendiendo las bases para co
 Seguir creciendo en tecnología, crear proyectos útiles y construir una carrera en desarrollo web.
 
 ## 🔥 Motivación
-Aprender de cada error.
-La práctica hace al maestro.
-Cada proyecto me acerca a mi meta.
+- Aprender de cada error.  
+- La práctica hace al maestro.  
+- Cada proyecto me acerca a mi meta. 
 
 ## ✨ Frase personal
 **“Construyendo ideas, linea por linea.”**
